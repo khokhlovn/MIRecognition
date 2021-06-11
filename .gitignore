@@ -1,0 +1,15 @@
+/MusicApp/*.iml
+/MusicApp/.gradle
+/MusicApp/local.properties
+/MusicApp/.idea/caches
+/MusicApp/.idea/libraries
+/MusicApp/.idea/modules.xml
+/MusicApp/.idea/workspace.xml
+/MusicApp/.idea/navEditor.xml
+/MusicApp/.idea/assetWizardSettings.xml
+/MusicApp.DS_Store
+/MusicApp/build
+/MusicApp/captures
+/MusicApp.externalNativeBuild
+/MusicApp.cxx
+/MusicApp/local.properties
